@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: white;
+}
+
+.app-container {
+  text-align: center;
+}
+
+.app-header {
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 440px;
+  color: black;
+}
+
+.content-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profile-pic {
+  height: 270px;
+  width: 235px;
+  border-radius: 10%;
+}
+
+.text-container {
+  padding: 20px; 
+  text-align: left;
+  margin-left: 80px;
+}

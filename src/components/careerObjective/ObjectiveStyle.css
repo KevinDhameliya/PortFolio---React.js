@@ -1,0 +1,15 @@
+
+.heading {
+  color: #4f5382;
+} 
+
+.project {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin: 25px;
+}
+
+.description {
+  color: #777;
+  line-height: 1.5;
+}

@@ -1,0 +1,21 @@
+.section-heading {
+  color: #4f5382;
+  margin-left: 28px;
+  padding-top: 15px;
+}
+
+.project {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.project-heading {
+  color: #4f5382;
+  margin-bottom: 10px;
+}
+
+.project-description {
+  color: #777;
+  line-height: 1.5;
+}

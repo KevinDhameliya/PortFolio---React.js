@@ -1,0 +1,29 @@
+.experience-container {
+  margin: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #fff;
+  /* padding-left: 15px;
+  padding-top: 20px; */
+  padding: 15px;
+}
+
+.project-heading {
+  color: #4f5382;
+  margin-bottom: 10px;
+}
+
+.project {
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.experience-list {
+  list-style-type: none;
+}
+
+.experience-heading{
+  color: #4f5382;
+  margin-left: 20px;
+}
